@@ -1,2 +1,2 @@
 # SensorToCloud
-![My Image](Architecture.png)
+![My Image](AWSArchitecture.png)
